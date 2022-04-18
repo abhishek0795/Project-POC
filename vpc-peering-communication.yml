@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: "2010-09-09"
+AWSTemplateFormatVersion: 2010-09-09
 Description: This template updates the specified route tables & security groups to allow communications via the VPC peering connection.
 Metadata:
   AWS::CloudFormation::Interface:
